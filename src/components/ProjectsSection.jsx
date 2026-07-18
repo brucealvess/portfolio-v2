@@ -135,7 +135,10 @@ export default function ProjectsSection() {
             rel="noreferrer"
             aria-label="Abrir projeto RAA CV"
           >
-            <div className="project-browser-bar"><i /><i /><i /><span>raa-cv.com</span></div>
+            <div className="project-browser-bar">
+              <i /><i /><i />
+              <span>ronaldoalves78.github.io/raa-portfolio</span>
+            </div>
             <img
               className="featured-project__image"
               src={raaCvPreview}

@@ -1162,7 +1162,13 @@ a {
 }
 
 .project-browser-bar i:first-child { background: #ff6508; }
-.project-browser-bar span { margin-left: auto; }
+.project-browser-bar span {
+  min-width: 0;
+  margin-left: auto;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
 
 .raa-preview {
   position: absolute;
