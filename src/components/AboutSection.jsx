@@ -120,7 +120,7 @@ export default function AboutSection() {
               </ul>
               <img
                 className="about-values-card__mark"
-                src="/favicon.svg"
+                src={`${import.meta.env.BASE_URL}favicon.svg`}
                 alt=""
                 aria-hidden="true"
               />
