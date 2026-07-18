@@ -130,7 +130,7 @@ export default function ProjectsSection() {
           <a
             className="featured-project__preview"
             data-scroll-reveal="left"
-            href="https://brucealvess.github.io/raa-cv/"
+            href="https://ronaldoalves78.github.io/raa-portfolio/"
             target="_blank"
             rel="noreferrer"
             aria-label="Abrir projeto RAA CV"
@@ -167,10 +167,10 @@ export default function ProjectsSection() {
               <li>CSS</li>
             </ul>
             <div className="project-card__links">
-              <a href="https://brucealvess.github.io/raa-cv/" target="_blank" rel="noreferrer">
+              <a href="https://ronaldoalves78.github.io/raa-portfolio/" target="_blank" rel="noreferrer">
                 Ver projeto <ArrowUpRightIcon />
               </a>
-              <a href="https://github.com/brucealvess/raa-cv" target="_blank" rel="noreferrer">
+              <a href="https://github.com/ronaldoalves78/raa-portfolio" target="_blank" rel="noreferrer">
                 Ver código
               </a>
             </div>
