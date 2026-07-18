@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.vite/
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+
+# Arquivos-fonte pesados; o site utiliza as versões WebP otimizadas.
+src/assets/images/profile.png
+src/assets/projects/*.png
